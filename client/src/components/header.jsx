@@ -8,7 +8,7 @@ export default function header() {
   return (
     <Navbar className="border-b-2">
         <Link to="/" className="self-center whitespace-nowrap text-sm sm:text-xl font-semibold dark:text-white">
-            <span className="px-2 py-1 bg-pink-500 rounded-lg text-white">Sahand's</span>
+            <span className="px-2 py-1 bg-pink-500 rounded-lg text-white">Kenyan's</span>
             Blog
         </Link>
         <form>
